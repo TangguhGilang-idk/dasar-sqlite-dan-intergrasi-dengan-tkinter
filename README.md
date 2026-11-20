@@ -20,12 +20,12 @@ Praktikum **Dasar SQLite dan Integrasi dengan Tkinter**. Aplikasi desktop berbas
 
 ```
 .
-├── aplikasi_mahasiswa.py   # kode aplikasi
-├── mahasiswa.db            # database SQLite
-├── screenshot/             # folder tangkapan layar
-│   ├── formulir.png        # formulir aplikasi
-│   ├── treeview.png        # data pada Treeview
-│   └── isi_database.png    # isi database di DB Browser
+├── aplikasi_mahasiswa.py   
+├── mahasiswa.db            
+├── screenshot/             
+│   ├── formulir.png        
+│   ├── treeview.png        
+│   └── isi_database.png    
 └── README.md
 ```
 
